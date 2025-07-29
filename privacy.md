@@ -2,14 +2,14 @@
 
 **Last Updated:** July 29, 2025
 
-This Privacy Policy outlines how Levente István Morva and Gergely Morva ("we," "us," or "our") collect, use, and disclose your information when you use Koffer (the "Application").
+This Privacy Policy outlines how Kofferfabrik ("we," "us," or "our") collects, uses, and discloses your information when you use Koffer (the "Application").
 Your privacy is important to us, and we are committed to protecting your personal data.
 
 By using the Application, you agree to the collection and use of information in accordance with this policy.
 
 ## 1. Who we are
 
-The Application is provided by Levente István Morva and Gergely Morva.
+The Application is provided by Kofferfabrik.
 If you have any questions about this privacy policy or our data protection practices, please contact us.
 
 ## 2. What information we collect
